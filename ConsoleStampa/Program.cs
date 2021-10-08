@@ -12,7 +12,7 @@ namespace ConsoleStampa
         {
             Console.WriteLine("Hello World!");
 
-            Console.WriteLine("Hello Ale!!1!11!!1!!!11!1");
+            Console.WriteLine("Hi");
         }
     }
 }
